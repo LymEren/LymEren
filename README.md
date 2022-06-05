@@ -1,6 +1,6 @@
 - Hi, welcome! 
 - I’m currently learning Go, Java and Solidity
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge https://www.linkedin.com/in/eyyub-eren/
+- Linkedin: https://www.linkedin.com/in/eyyub-eren/
 - Exercism: https://exercism.org/profiles/LymEren
 
 [![](https://raw.githubusercontent.com/LymEren/Eyyub-Eren/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/LymEren/Eyyub-Eren/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
