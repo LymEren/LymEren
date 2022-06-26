@@ -1,4 +1,4 @@
-- Hi, welcome! 
+- Hi, Welcome! 
 - I’m currently learning Go, Java and Solidity
 - Linkedin: https://www.linkedin.com/in/eyyub-eren/
 - Exercism: https://exercism.org/profiles/LymEren
