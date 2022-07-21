@@ -1,5 +1,5 @@
 - Hi, Welcome! 
-- I’m currently learning Java and Go 
+- I’m currently learning Python Java and Go 
 - Linkedin: https://www.linkedin.com/in/eyyub-eren/
 - Exercism: https://exercism.org/profiles/LymEren
 
